@@ -1,3 +1,4 @@
+<p align="center"><img src="https://tenor.com/view/welcome-to-my-life-the-big-bang-theory-sheldon-cooper-jim-parsons-tbbt-gif-14250624" /></p>
 <h1 align="center">Hi 👋, I'm HARSH PAL</h1>
 <h3 align="center">A Passionate Generalist Software Developer from India</h3>
 
