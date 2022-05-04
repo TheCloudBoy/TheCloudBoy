@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsads" alt="dsads" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/sdadsa" target="blank"><img src="https://img.shields.io/twitter/follow/sdadsa?logo=twitter&style=for-the-badge" alt="sdadsa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/not_a_semicolon" target="blank"><img src="https://img.shields.io/twitter/follow/not_a_semicolon?logo=twitter&style=for-the-badge" alt="not_a_semicolon" /></a> </p>
 
 - 🔭 I’m currently working on [Azure Dev-Ops](https)
 
@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on [Any of the mentioned tech stack](https)
 
-- 🤝 I’m looking for help with [any](https)
+<!-- - 🤝 I’m looking for help with [any](https) -->
 
-- 👨‍💻 All of my projects are available at [http](http)
+<!-- - 👨‍💻 All of my projects are available at [http](http) -->
 
 - 📝 I regularly write articles on [http](http)
 
