@@ -1,5 +1,5 @@
+<p align="left"><img src="https://tenor.com/view/how-you-doin-how-are-you-doing-joey-tribbiani-matt-le-blanc-friends-gif-16924562" width="400" height="400"/></p>
 
-<img align="right" alt="GIF" src="https://tenor.com/7XoW.gif" />
 
 <h1 align="center">Hi 👋, I'm HARSH PAL</h1>
 <h3 align="center">A Passionate Generalist Software Developer from India</h3>
@@ -61,3 +61,7 @@
 <br><br>
 <br><br>
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CloudDev-Harsh&" alt="CloudDev-Harsh" /></p>
+<br><br> 
+<br><br>
+<br><br>
+<p align="left"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40"/></p>
