@@ -1,4 +1,4 @@
-<p align="left"><img src="https://tenor.com/view/how-you-doin-how-are-you-doing-joey-tribbiani-matt-le-blanc-friends-gif-16924562" width="400" height="400"/></p>
+
 
 
 <h1 align="center">Hi 👋, I'm HARSH PAL</h1>
