@@ -39,8 +39,8 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/dsads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dsads" height="30" width="40" /></a>
-<a href="https://twitter.com/sdadsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdadsa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sads" height="30" width="40" /></a>
+<a href="https://twitter.com/not_a_semicolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_a_semicolon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daemonharry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daemonharry" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dsadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dsadas" height="30" width="40" /></a>
 <a href="https://instagram.com/dsada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsada" height="30" width="40" /></a>
 <a href="https://medium.com/dsadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dsadas" height="30" width="40" /></a>
