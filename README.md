@@ -51,31 +51,31 @@
 <p align="left">
     <a href="https://dev.to/dsads" target="blank"><img align="center"
             src="https://github.com/your-icy/your-icy/blob/main/svgs/devto.svg"
-            alt="dsads" height="30" width="40" /></a>
-    <a href="https://twitter.com/not_a_semicolon" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="not_a_semicolon" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/daemonharry" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="daemonharry" height="30" width="40" /></a>
+            alt="icy" height="30" width="40" /></a>
+    <a href="https://x.com/your_icyy" target="blank"><img align="center"
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/x-social-media-logo-icon.svg"
+            alt="your_icyy" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/icyy/" target="blank"><img align="center"
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/linked-in-alt.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/dsadas" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="dsadas" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/stack-overflow.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://instagram.com/dsada" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="dsada" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/instagram.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://medium.com/dsadas" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="dsadas" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/medium.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/dsad" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="dsad" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/hackerrank.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/dasd" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="dasd" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/leet-code.svg"
+            alt="icy" height="30" width="40" /></a>
     <a href="https://discord.gg/dsada" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="dsada" height="30" width="40" /></a>
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/discord-icon-svgrepo-com.svg"
+            alt="icy" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img
