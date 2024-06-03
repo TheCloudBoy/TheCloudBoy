@@ -50,7 +50,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://dev.to/dsads" target="blank"><img align="center"
-            src="[svgs/devto.svg](https://github.com/your-icy/your-icy/blob/main/svgs/devto.svg)"
+            src="https://github.com/your-icy/your-icy/blob/main/svgs/devto.svg"
             alt="dsads" height="30" width="40" /></a>
     <a href="https://twitter.com/not_a_semicolon" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
