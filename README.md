@@ -89,16 +89,7 @@
     <img
             src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
             height="40" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-                
 
-        
-
-        
-        <img
-            src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40"
-            height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-
-        
         <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
             height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
