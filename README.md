@@ -126,17 +126,17 @@
                 alt="thecloudguy" /></a></p><br><br>
     <br>
     <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=CloudDev-Harsh&show_icons=true&locale=en&layout=compact"
-            alt="CloudDev-Harsh" /></p>
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=your_icy&show_icons=true&locale=en&layout=compact"
+            alt="your_icy" /></p>
     <br><br><br><br><br>
 
 <p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=CloudDev-Harsh&show_icons=true&locale=en"
-        alt="CloudDev-Harsh" /></p>
+        alt="your_icy" /></p>
 <br><br>
 <br><br>
 <br><br>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CloudDev-Harsh&"
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=your_icy&"
         alt="CloudDev-Harsh" /></p>
 <br><br>
 <br><br>
