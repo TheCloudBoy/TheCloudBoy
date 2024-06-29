@@ -88,13 +88,12 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-icy/your-icy/output/github-contribution-grid-snake.svg" />
-    <p><img align="left"
+    <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=your-icy&show_icons=true&locale=en&layout=compact"
-            alt="your-icy" /></p>
+            alt="your-icy" width="500" height="800/></p>
     <br><br>
 
-<p>&nbsp;<img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en" width="500" height="800
         alt="your-icy" /></p>
           <br/><br/><br/>
 
