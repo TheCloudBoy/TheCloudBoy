@@ -24,17 +24,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=your-icy" alt="your-icy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/not_a_semicolon" target="blank"><img
-            src="https://img.shields.io/twitter/follow/not_a_semicolon?logo=twitter&style=for-the-badge"
-            alt="not_a_semicolon" /></a> </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Wallet App**
+ 
+ 🌱 I’m currently learning **Spring Boot, MongoDB, ReactJS, Docker**
 
-- 🔭 I’m currently working on [Azure Dev-Ops]()
+💬 Ask me about **Java, Terraform, MySQL or Microsoft Azure**
 
-- 🌱 I’m currently learning **Azure**
 
-- 👯 I’m looking to collaborate on
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 &nbsp;<p align="left"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/tv-shows-quotes.gif"
+        src="https://github.com/your-icy/your-icy/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/tv-shows-quotes.gif"
         width="300" height="200" alt="HowYouDoin" /> </p>
 
   <!-- - 🤝 I’m looking for help with [any](https) -->
