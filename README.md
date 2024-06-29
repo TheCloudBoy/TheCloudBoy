@@ -117,7 +117,7 @@
                 alt="thecloudguy" /></a></p><br><br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/a-dexterity/a-dexterity/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-icy/your-icy/output/github-contribution-grid-snake.svg" />
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=your-icy&show_icons=true&locale=en&layout=compact"
             alt="your-icy" /></p>
