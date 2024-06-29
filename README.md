@@ -91,19 +91,20 @@
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=your-icy&show_icons=true&locale=en&layout=compact"
             alt="your-icy" /></p>
-    <br><br><br><br><br>
+    <br><br>
 
-<p>&nbsp;<img align="left"
-        src="[https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=your-icy
-)"
+<p>&nbsp;<img align="right"
+        src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en"
         alt="your-icy" /></p>
           <br/><br/><br/>
-</div>
+
 <br><br>
 <br><br>
 <br><br>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&"
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&"
         alt="your-icy" /></p>
+</div>
+
 <br><br>
 <br><br>
 <br><br><br><br>
