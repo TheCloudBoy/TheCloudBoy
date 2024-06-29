@@ -32,6 +32,8 @@
 
 💬 Ask me about **Java, Terraform, MySQL or Microsoft Azure**
 
+📫 How to reach me **DEV.HARSHPAL@GMAIL.COM**
+
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs and**
 &nbsp;<p align="center"> <img
@@ -39,19 +41,12 @@
         width="300" height="200" alt="HowYouDoin" /> </p>
 
  </div>
-&nbsp;<p align="left"> <img
-        src="https://github.com/your-icy/your-icy/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/tv-shows-quotes.gif"
-        width="300" height="200" alt="HowYouDoin" /> </p>
 
   <!-- - 🤝 I’m looking for help with [any](https) -->
 
 <!-- - 👨‍💻 All of my projects are available at [http](http) -->
 
-<!-- - 📝 I regularly write articles on [http](http) -->
-
-- 💬 Ask me about **GCP**
-
-- 📫 How to reach me **DEV.HARSHPAL@GMAIL.COM**
+<!-- - 📝 I regularly write articles on [http](http) --> 
 
 <!-- - 📄 Know about my experiences [http](http) -->
 
@@ -60,40 +55,14 @@
 <br><br>
 <br><br>
 <h1 align="center"></h1>
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
-    <a href="https://dev.to/dsads" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/devto.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://x.com/your_icyy" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/x-social-media-logo-icon.svg"
-            alt="your_icyy" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/icyy/" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/linked-in-alt.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/dsadas" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/stack-overflow.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://instagram.com/dsada" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/instagram.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://medium.com/dsadas" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/medium.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/dsad" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/hackerrank.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/dasd" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/leet-code.svg"
-            alt="icy" height="30" width="40" /></a>
-    <a href="https://discord.gg/dsada" target="blank"><img align="center"
-            src="https://github.com/your-icy/your-icy/blob/main/svgs/discord-icon-svgrepo-com.svg"
-            alt="icy" height="30" width="40" /></a>
+    
 </p>
 
 <p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/21583e2dbdaf31fe2de930dffb2a96e20ada5d0e/Github/ponste11.gif"
-        width="820" height="300" alt="HowYouDoin" /> </p>
+        src="https://github.com/CloudDev-Harsh/your-icy/blob/21583e2dbdaf31fe2de930dffb2a96e20ada5d0e/Github/ponste11.gif"
+        width="820" height="300" alt="Don't you wanna be my friend" /> </p>
 <h1 align="center"></h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
