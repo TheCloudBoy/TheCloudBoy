@@ -55,10 +55,12 @@
 <br><br>
 <br><br>
 <h1 align="center"></h1>
-<h2 align="center">Socials:</h2>
-<p align="left">
+<h2 align="center">🤝 Socials 🤝</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)(https://skillicons.dev) />
+
     
-</p>
+</div>
 
 <p align="center"> <img
         src="https://github.com/CloudDev-Harsh/your-icy/blob/21583e2dbdaf31fe2de930dffb2a96e20ada5d0e/Github/ponste11.gif"
