@@ -92,6 +92,6 @@
     <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en" alt="your-icy" /></p>
 <br>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" alt="your-icy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" alt="your-icy" /></p>
 </div>
 
