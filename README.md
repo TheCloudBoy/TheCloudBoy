@@ -21,7 +21,7 @@
             src="https://github-profile-trophy.vercel.app/?username=your-icy" alt="your-icy" /></a> </p>
 
 <div align="center">
- <p align="left"> <img src="need/tv-shows-raj.gif" alt="raj-smile" /> </p>
+ <p align="center"> <img src="need/tv-shows-raj.gif" alt="raj-smile" /> </p>
     
  🔭 I’m currently working on **a Wallet App**
  
