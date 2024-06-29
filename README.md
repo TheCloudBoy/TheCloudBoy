@@ -49,8 +49,7 @@
 
 
 
-<br><br>
-<br><br>
+<br>
 <h1 align="center"></h1>
 <h2 align="center">🤝 Socials 🤝</h2>
 <div align="center">
@@ -60,8 +59,7 @@
 </div>
 
 <p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/your-icy/blob/21583e2dbdaf31fe2de930dffb2a96e20ada5d0e/Github/ponste11.gif"
-        width="820" height="300" alt="Don't you wanna be my friend" /> </p>
+        src="need/ponste11.gif" width="700" height="300" alt="Don't you wanna be my friend" /> </p>
 <h1 align="center"></h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
