@@ -112,7 +112,7 @@
     <br>
     <div align="center">
     <h3 align="center">Support:</h3>
-    <p><a href="https://www.buymeacoffee.com/thecloudguy"> <img align="left"
+    <p><a href="https://www.buymeacoffee.com/thecloudguy"> <img align="center"
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
                 alt="thecloudguy" /></a></p><br><br>
   <h2>🐍 My Contributions 🐍</h2>
