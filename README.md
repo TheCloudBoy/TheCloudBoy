@@ -101,7 +101,7 @@
 <br><br>
 <br><br>
 <br><br>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" width="100" height="300
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" width="500" height="800
         alt="your-icy" /></p>
 </div>
 
