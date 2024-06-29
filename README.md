@@ -1,19 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=a-dexterity.your-icy" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=your-icy" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Pal!;" />
 </h1>
 
 <p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/how-you-doin-how-are-you-doing.gif"
+        src="https://github.com/CloudDev-Harsh/your-icy/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/how-you-doin-how-are-you-doing.gif"
         width="700" height="300" alt="HowYouDoin" /> </p>
 <h1 align="center"></h1>
 <!-- name highlight ending -->
 <h3 align="center">A passionate software developer from India </h3>
 
 <p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/welcome-to-my-life-the-big-bang-theory.gif"
-        width="700" height="300" alt="HowYouDoin" /> </p>
+        src="https://github.com/CloudDev-Harsh/your-icy/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/welcome-to-my-life-the-big-bang-theory.gif"
+        width="700" height="300" alt="welcome" /> </p>
 
         
 <h1 align="center"></h1>
