@@ -96,9 +96,11 @@
 <h1 align="center"></h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<h4 align="center">⚡Good Exposure⚡</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,kafka,html,css,vscode,github,idea,git,js,postgres" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,kubernetes,gcp,go,mui,react,typescript,tailwind,materialui,django,express,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis" />
+    <h4 align="center">🔭 Learning Queue 🔭</h4>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,kubernetes,gcp,go,mui,react,typescript,tailwind,materialui,django,express,nextjs,redux,solidity" /><br>
 </div>
       
 <p align="center"> 
