@@ -29,9 +29,9 @@
 
 💬 Ask me about **Java, Terraform, MySQL or Microsoft Azure**
 
-📫 How to reach me **DEV.HARSHPAL@GMAIL.COM**
+📫 How to reach me: **DEV.HARSHPAL@GMAIL.COM**
 
-need/dumbledore-party-hard.gif
+
 ⚡ Fun fact <br> &nbsp;<p align="center"> <img src="need/dumbledore-party-hard.gif" width="700" height="300" alt="dumble daadhi" /> </p>
 **And** <br>
 &nbsp;<p align="center"> <img
