@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/your-icy/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/how-you-doin-how-are-you-doing.gif"
+        src="need/how-you-doin-how-are-you-doing.gif"
         width="700" height="300" alt="HowYouDoin" /> </p>
 <h1 align="center"></h1>
 <!-- name highlight ending -->
