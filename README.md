@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm HARSH PAL</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=a-dexterity.your-icy" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Pal!;" />
+</h1>
+
 <p align="center"> <img
         src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/how-you-doin-how-are-you-doing.gif"
         width="700" height="300" alt="HowYouDoin" /> </p>
-<h1 align="center"></h1>
-<h1 align="center">I am a Passionate Software Developer from India</h1>
+
+<!-- name highlight ending -->
+<h3 align="center">A passionate software developer from India </h3>
+
 <p align="center"> <img
         src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/welcome-to-my-life-the-big-bang-theory.gif"
         width="700" height="300" alt="HowYouDoin" /> </p>
+
+        
 <h1 align="center"></h1>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=CloudDev-Harsh&label=Profile%20views&color=0e75b6&style=flat"
