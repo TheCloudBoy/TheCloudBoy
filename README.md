@@ -108,12 +108,12 @@
  <img src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/power-star-wars.gif"
         width="820" height="500" alt="HowYouDoin" /> </p>
     <h1 align="center"></h1>
+    <br>
+    <div align="center">
     <h3 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/thecloudguy"> <img align="left"
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
                 alt="thecloudguy" /></a></p><br><br>
-    <br>
-    <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/a-dexterity/a-dexterity/output/github-contribution-grid-snake.svg" />
