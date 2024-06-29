@@ -37,8 +37,8 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs and**
 &nbsp;<p align="center"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/jokes-uncomfortable.gif"
-        width="300" height="200" alt="HowYouDoin" /> </p>
+        src="https://github.com/CloudDev-Harsh/your-icy/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/jokes-uncomfortable.gif"
+        width="300" height="200" alt="uncomfortable" /> </p>
 
  </div>
 
