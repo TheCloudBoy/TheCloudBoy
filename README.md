@@ -33,7 +33,10 @@
 💬 Ask me about **Java, Terraform, MySQL or Microsoft Azure**
 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs and**
+&nbsp;<p align="center"> <img
+        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/jokes-uncomfortable.gif"
+        width="300" height="200" alt="HowYouDoin" /> </p>
 
  </div>
 &nbsp;<p align="left"> <img
@@ -52,10 +55,8 @@
 
 <!-- - 📄 Know about my experiences [http](http) -->
 
-- ⚡ Fun fact
-&nbsp;<p align="left"> <img
-        src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/jokes-uncomfortable.gif"
-        width="300" height="200" alt="HowYouDoin" /> </p>
+
+
 <br><br>
 <br><br>
 <h1 align="center"></h1>
