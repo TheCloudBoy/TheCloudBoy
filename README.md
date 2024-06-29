@@ -7,7 +7,10 @@
 <p align="center"> <img src="need/how-you-doin-how-are-you-doing.gif" width="700" height="300" alt="HowYouDoin" /> </p>
 <h1 align="center"></h1>
 <!-- name highlight ending -->
-<h3 align="center">A passionate software developer from India </h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A passionate software developer from India;" />
+</h1>
+
 
 <p align="center"> <img src="need/welcome-to-my-life-the-big-bang-theory.gif" width="700" height="300" alt="welcome" /> </p>
 
