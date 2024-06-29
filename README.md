@@ -66,16 +66,19 @@
 <h4 align="center">⚡Good Exposure⚡</h4>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis&perline=9" />
+
+<img src="need/power-star-wars.gif" width="700" height="250" alt="joey-brain" /> </p>
+
+<br>
 <h4 align="center">🔭 Learning Queue 🔭</h4>
     
 <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
 </div>
+<img src="need/joey-tribbiani-brain.gif" width="820" height="250" alt="joey-brain" /> </p>
       
 <p align="center"> 
     
- <img src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/power-star-wars.gif"
-        width="820" height="250" alt="HowYouDoin" /> </p>
-    <h1 align="center"></h1>
+
     <br>
     <div align="center">
     <h3 align="center">Support:</h3>
