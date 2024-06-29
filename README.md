@@ -87,23 +87,11 @@
                 alt="thecloudguy" /></a></p><br><br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-icy/your-icy/output/github-contribution-grid-snake.svg" />
-    <p><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=your-icy&show_icons=true&locale=en&layout=compact"
-            alt="your-icy"/></p>
-    <br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en" 
-        alt="your-icy" /></p>
-    
-
-<br><br>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" 
-        alt="your-icy" /></p>
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-icy/your-icy/output/github-contribution-grid-snake.svg" /> -->
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-icy&show_icons=true&locale=en&layout=compact" alt="your-icy"/></p>
+    <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en" alt="your-icy" /></p>
+<br>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-icy&" alt="your-icy" /></p>
 </div>
 
-<br><br>
-<br><br>
-<br><br><br><br>
-<p><img src="https://github-readme-twitter.gazf.vercel.app/api?id=not_a_semicolon&layout=wide" /> </p>
