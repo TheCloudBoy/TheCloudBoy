@@ -77,7 +77,7 @@
 <p align="center"> 
     
  <img src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a5b24ce85f241a50f925f42e043873166c0e3bcc/Github/power-star-wars.gif"
-        width="820" height="500" alt="HowYouDoin" /> </p>
+        width="820" height="400" alt="HowYouDoin" /> </p>
     <h1 align="center"></h1>
     <br>
     <div align="center">
