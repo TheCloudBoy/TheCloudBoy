@@ -94,7 +94,8 @@
     <br><br><br><br><br>
 
 <p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en"
+        src="[https://github-readme-stats.vercel.app/api?username=your-icy&show_icons=true&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=your-icy
+)"
         alt="your-icy" /></p>
           <br/><br/><br/>
 </div>
