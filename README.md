@@ -7,7 +7,7 @@
 <p align="center"> <img
         src="https://github.com/CloudDev-Harsh/CloudDev-Harsh/blob/a04208ca69253d4c4d2de238e15156c3be880e72/Github/how-you-doin-how-are-you-doing.gif"
         width="700" height="300" alt="HowYouDoin" /> </p>
-
+<h1 align="center"></h1>
 <!-- name highlight ending -->
 <h3 align="center">A passionate software developer from India </h3>
 
@@ -18,11 +18,11 @@
         
 <h1 align="center"></h1>
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=CloudDev-Harsh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="CloudDev-Harsh" /> </p>
+        src="https://komarev.com/ghpvc/?username=your-icy&label=Profile%20views&color=0e75b6&style=flat"
+        alt="your-icy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=CloudDev-Harsh" alt="CloudDev-Harsh" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=your-icy" alt="your-icy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/not_a_semicolon" target="blank"><img
             src="https://img.shields.io/twitter/follow/not_a_semicolon?logo=twitter&style=for-the-badge"
