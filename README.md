@@ -98,9 +98,10 @@
 <br/>
 <h4 align="center">⚡Good Exposure⚡</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis&perline=9" />
-    <h4 align="center">🔭 Learning Queue 🔭</h4>
-    <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
+<img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis&perline=9" />
+<h4 align="center">🔭 Learning Queue 🔭</h4>
+    
+<img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
 </div>
       
 <p align="center"> 
@@ -110,7 +111,7 @@
     <h1 align="center"></h1>
     <br>
     <div align="center">
-    <h3 align="left">Support:</h3>
+    <h3 align="center">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/thecloudguy"> <img align="left"
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
                 alt="thecloudguy" /></a></p><br><br>
