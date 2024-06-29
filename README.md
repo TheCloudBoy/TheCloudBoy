@@ -57,7 +57,7 @@
 <h1 align="center"></h1>
 <h2 align="center">🤝 Socials 🤝</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)(https://skillicons.dev)" />
+<img src="[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)" />
 
     
 </div>
