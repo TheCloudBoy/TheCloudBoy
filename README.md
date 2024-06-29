@@ -55,7 +55,7 @@
 <br><br>
 <br><br>
 <h1 align="center"></h1>
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Socials:</h2>
 <p align="left">
     
 </p>
