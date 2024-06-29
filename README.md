@@ -100,7 +100,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis&perline=9" />
     <h4 align="center">🔭 Learning Queue 🔭</h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,kubernetes,gcp,go,mui,react,typescript,tailwind,materialui,django,express,nextjs,redux,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui, python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
 </div>
       
 <p align="center"> 
