@@ -31,8 +31,9 @@
 
 📫 How to reach me **DEV.HARSHPAL@GMAIL.COM**
 
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs and**
+need/dumbledore-party-hard.gif
+⚡ Fun fact <br> &nbsp;<p align="center"> <img src="need/dumbledore-party-hard.gif" width="700" height="300" alt="dumble daadhi" /> </p>
+**And** <br>
 &nbsp;<p align="center"> <img
         src="need/jokes-uncomfortable.gif"
         width="700" height="300" alt="uncomfortable" /> </p>
