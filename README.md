@@ -75,16 +75,13 @@
 <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
 </div>
 <img src="need/joey-tribbiani-brain.gif" width="820" height="250" alt="joey-brain" /> </p>
-      
-<p align="center"> 
-    
 
-    <br>
-    <div align="center">
-    <h3 align="center">Support:</h3>
+<div align="center">
+<h3 align="center">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/thecloudguy"> <img align="center"
-                src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-                alt="thecloudguy" /></a></p><br><br>
+                src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thecloudguy" /></a>
+
+    
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-icy/your-icy/output/github-contribution-grid-snake.svg" /> -->
