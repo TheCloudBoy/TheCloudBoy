@@ -8,7 +8,7 @@
 <h1 align="center"></h1>
 <!-- name highlight ending -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A passionate software developer from India;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Passionate!+🔭;+Software+Developer+From+India!;" />
 </h1>
 
 
