@@ -74,8 +74,9 @@
 <h4 align="center">🔭 Learning Queue 🔭</h4>
     
 <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
-</div>
 <img src="need/joey-tribbiani-brain.gif" width="820" height="400" alt="joey-brain" /> </p>
+</div>
+
 
 <div align="center">
 <h3 align="center">Support:</h3>
