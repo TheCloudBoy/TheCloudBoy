@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Pal!;" />
 </h1>
 
-<p align="center"> <img src="need/how-you-doin-how-are-you-doing.gif" width="700" height="300" alt="HowYouDoin" /> </p>
+<p align="center"> <img src="need/how-you-doin-how-are-you-doing.gif" width="700" height="400" alt="HowYouDoin" /> </p>
 <h1 align="center"></h1>
 <!-- name highlight ending -->
 <h1 align="center">
@@ -12,7 +12,7 @@
 </h1>
 
 
-<p align="center"> <img src="need/welcome-to-my-life-the-big-bang-theory.gif" width="700" height="300" alt="welcome" /> </p>
+<p align="center"> <img src="need/welcome-to-my-life-the-big-bang-theory.gif" width="700" height="400" alt="welcome" /> </p>
 
         
 <h1 align="center"></h1>
@@ -35,12 +35,9 @@
 📫 How to reach me: **DEV.HARSHPAL@GMAIL.COM**
 
 
-⚡ Fun fact <br> &nbsp;<p align="center"> <img src="need/dumbledore-party-hard.gif" width="700" height="300" alt="dumble daadhi" /> </p>
+⚡ Fun fact <br> &nbsp;<p align="center"> <img src="need/dumbledore-party-hard.gif" width="700" height="400" alt="dumble daadhi" /> </p>
 **And** <br>
-&nbsp;<p align="center"> <img
-        src="need/jokes-uncomfortable.gif"
-        width="700" height="300" alt="uncomfortable" /> </p>
-
+&nbsp;<p align="center"> <img src="need/jokes-uncomfortable.gif" width="700" height="400" alt="uncomfortable" /> </p> 
  </div>
 
   <!-- - 🤝 I’m looking for help with [any](https) -->
@@ -63,7 +60,7 @@
 </div>
 
 <p align="center"> <img
-        src="need/ponste11.gif" width="700" height="300" alt="Don't you wanna be my friend" /> </p>
+        src="need/ponste11.gif" width="700" height="400" alt="Don't you wanna be my friend" /> </p>
 <h1 align="center"></h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -71,14 +68,14 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,azure,mysql,mongodb,bootstrap,docker,spring,terraform,kafka,html,css,vscode,github,idea,git,js,postgres,redis&perline=9" />
 
-<img src="need/power-star-wars.gif" width="700" height="250" alt="joey-brain" /> </p>
+<img src="need/power-star-wars.gif" width="700" height="400" alt="joey-brain" /> </p>
 
 <br>
 <h4 align="center">🔭 Learning Queue 🔭</h4>
     
 <img src="https://skillicons.dev/icons?i=kubernetes,typescript,nodejs,express,tailwind,materialui,react,redux,mui,python,gcp,dynamodb,graphql,figma,django,nextjs,solidity,go&perline=9" /><br>
 </div>
-<img src="need/joey-tribbiani-brain.gif" width="820" height="250" alt="joey-brain" /> </p>
+<img src="need/joey-tribbiani-brain.gif" width="820" height="400" alt="joey-brain" /> </p>
 
 <div align="center">
 <h3 align="center">Support:</h3>
