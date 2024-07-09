@@ -15,13 +15,6 @@
 <p align="center"> <img src="need/welcome-to-my-life-the-big-bang-theory.gif" width="400" height="180" alt="welcome" /> </p>
 
         
-<h1 align="center"></h1>
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=your-icy&label=Profile%20views&color=0e75b6&style=flat"
-        alt="your-icy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=your-icy" alt="your-icy" /></a> </p>
 
 <div align="center">
  <p align="center"> <img src="need/tv-shows-raj.gif" width="400" height="160" alt="raj-smile" /> </p>
